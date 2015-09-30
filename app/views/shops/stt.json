@@ -1,0 +1,38 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Ebay",
+      "books_sold_count": 437,
+      "books_in_stock": [
+        {
+          "id": 1,
+          "title": "Book 1",
+          "copies_in_stock": 300
+        },
+        {
+          "id": 4,
+          "title": "Book 2",
+          "copies_in_stock": 1000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Amazon",
+      "books_sold_count": 100,
+      "books_in_stock": [
+        {
+          "id": 2,
+          "title": "Book 1",
+          "copies_in_stock": 400
+        },
+        {
+          "id": 5,
+          "title": "Book 2",
+          "copies_in_stock": 3000
+        }
+      ]
+    }
+  ]
+}
